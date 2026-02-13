@@ -18,7 +18,7 @@ export default function page() {
               allowFullScreen
               frameBorder="0"
               allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-              loading="lazy"
+              loading="lazy" 
             ></iframe>
           </div>
         </div>
