@@ -4,7 +4,7 @@ import { sacramento } from "@/lib/fonts";
 import { TextGenerateEffect } from "@/components/ui/text-generate-effect";
 
 export default function page() {
-    const line1 = `And as each note plays, may it be a reminder of the melody of our hearts beating as one.`;
+    const line1 = `And as each note plays, remember… it’s literally just a song. No deep meaning.`;
   return (
     <>
       <div className="w-full h-screen bg-gradient-to-r from-pink-500 to-red-500">
